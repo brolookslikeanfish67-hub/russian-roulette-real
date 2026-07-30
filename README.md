@@ -7,11 +7,11 @@
 ![Maintenance](https://img.shields.io/badge/maintained%3F-да-red)
 ![Russian](https://img.shields.io/badge/code%20language-Russian%20Cyrillic-white)
 
-## ⚠️ WARNING
+##  WARNING
 **This script will delete a random file from your current directory.**  
 You have been warned. Do not run on production, do not run on your thesis, do not run at all – unless you like living dangerously.
 
-## 🎰 What is this?
+##  What is this?
 It’s Russian roulette for your codebase:
 - Scans all files in the current folder (except itself)
 - Picks one at random
@@ -20,7 +20,7 @@ It’s Russian roulette for your codebase:
 
 All variable names, functions, comments and strings are in **Russian** – to make debugging a truly Soviet experience.
 
-## 🚀 Installation
+##  Installation
 ```bash
-git clone https://github.com/yourusername/russian-roulette.git
+git clone https://github.com/brolookslikeanfish67-hub/russian-roulette-real.git
 cd russian-roulette
