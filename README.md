@@ -4,7 +4,6 @@
 > Entire codebase is written in **Russian**, because why not.
 
 ![Python](https://img.shields.io/badge/python-3.6+-blue)
-![License](https://img.shields.io/badge/license-WTFPL-brightgreen)
 ![Maintenance](https://img.shields.io/badge/maintained%3F-да-red)
 ![Russian](https://img.shields.io/badge/code%20language-Russian%20Cyrillic-white)
 
